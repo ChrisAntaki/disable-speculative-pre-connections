@@ -1,0 +1,19 @@
+{
+    "name": "disable_speculative_pre_connections",
+    "title": "Disable Speculative Pre-connections",
+    "id": "jid1-5Fs7iTLscUaZBgspc@jetpack",
+    "description": "Hide in the forest, with speculative pre-connections cleanly disabled.",
+    "author": "Chris Antaki",
+    "license": "MPL 2.0",
+    "version": "1.0.6",
+    "icon": "data/safe-48.png",
+    "permissions": {
+        "private-browsing": true
+    },
+    "main": "lib/main.js",
+    "devDependencies": {
+        "gulp": "^3.8.11",
+        "gulp-image-resize": "^0.6.0",
+        "gulp-rename": "^1.2.2"
+    }
+}
