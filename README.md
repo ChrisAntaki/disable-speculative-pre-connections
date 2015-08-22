@@ -7,4 +7,6 @@ To improve loading speeds, Firefox will open predictive connections to sites whe
 
 This plugin cleanly disables speculative pre-connections.
 
+Thanks for inspiring this addon, [@dbruenig](https://github.com/dbruenig).
+
 [1] https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections?redirectlocale=en-US&redirectslug=how-stop-firefox-automatically-making-connections#w_speculative-pre-connections
