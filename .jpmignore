@@ -1,2 +1,5 @@
 *.xpi
+.git/
+.gitignore
+.jpmignore
 node_modules/
