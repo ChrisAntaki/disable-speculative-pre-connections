@@ -5,8 +5,8 @@
     "description": "Hide in the forest, with speculative pre-connections cleanly disabled.",
     "author": "Chris Antaki",
     "license": "MPL 2.0",
-    "version": "1.0.1",
-    "icon": "data/safe-48.png",
+    "version": "1.0.2",
+    "icon": "icon.png",
     "permissions": {
         "private-browsing": true
     },
